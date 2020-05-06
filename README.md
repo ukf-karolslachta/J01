@@ -11,3 +11,4 @@
 - pozn. % je modulo, zvyšok po delení.
  
 
+.
